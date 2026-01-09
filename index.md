@@ -8,7 +8,7 @@
 </div>
 <div style="text-align: center;">
   {% include button.html text="GitHub" icon="github" link="https://github.com/Muhayyuddin/vision-tracking" color="#0366d6" %}
-  {% include button.html text="Preprint" icon="assets/arxiv.png" link="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10848073" color="#0366d6"  %}
+  {% include button.html text="Preprint" icon="assets/arxiv.png" link="https://arxiv.org/pdf/2412.07392" color="#0366d6"  %}
   {% include button.html text="FAQs"  link="#faqs" color="#0366d6"  %}
 </div>
 <h5 style="margin-bottom: 10px;"> Overview </h5>
