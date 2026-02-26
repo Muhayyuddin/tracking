@@ -1,3 +1,16 @@
+<style>
+
+        .citation-box {
+            background-color: #f6f8fa;
+            border: 1px solid #d0d7de;
+            border-radius: 6px;
+            padding: 20px;
+            margin: 20px 0;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            font-size: 14px;
+            overflow-x: auto;
+        }
+</style>
 <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-eval';">
 
 <div  id="home" style="text-align: center; font-size: 24px; margin-bottom: 10px; font-weight: bold; line-height: 1.4;">
@@ -29,6 +42,19 @@ experiments, demonstrating its effectiveness in handling dynamic maritime condit
 SeqTrack, a Transformer-based tracker, performed best in adverse conditions, such as dust storms. Among
 the control algorithms evaluated, the LQR controller demonstrated the most robust and smooth control,
 allowing for stable tracking of the USV.
+</div>
+<h3>Citation</h3>
+<div class="citation-box">
+<pre><code>@ARTICLE{10848073,
+  title={Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments},
+  journal={IEEE Access}, 
+  author={Muhayy, {Ud Din} and Ahsan, {Baidar Bakht} and Waseem, Akram and Yihao, Dong and Lakmal, Seneviratne and Irfan, Hussain},
+  year={2025},
+  volume={13},
+  pages={15014-15027},
+  doi={10.1109/ACCESS.2025.3532299}
+        }
+</code></pre>
 </div>
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
