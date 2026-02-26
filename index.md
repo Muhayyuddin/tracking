@@ -43,8 +43,7 @@ SeqTrack, a Transformer-based tracker, performed best in adverse conditions, suc
 the control algorithms evaluated, the LQR controller demonstrated the most robust and smooth control,
 allowing for stable tracking of the USV.
 </div>
-<h3>Citation</h3>
-<div class="citation-box">
+<h5>Citation</h5>
 <pre><code>@ARTICLE{MuhayyTracking2025,
   title={Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments},
   journal={IEEE Access}, 
@@ -55,7 +54,6 @@ allowing for stable tracking of the USV.
   doi={10.1109/ACCESS.2025.3532299}
         }
 </code></pre>
-</div>
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 
