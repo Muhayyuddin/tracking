@@ -1,16 +1,26 @@
-<style>
 
-        .citation-box {
-            background-color: #f6f8fa;
-            border: 1px solid #d0d7de;
-            border-radius: 3px;
-            padding: 1px;
-            margin: 5px 0;
-            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
-            font-size: 8px;
-            line-height: 1.2;
-            overflow-x: auto;
-        }
+
+<style>
+  .citation-box {
+    background-color: #f6f8fa;
+    border: 1px solid #d0d7de;
+    border-radius: 3px;
+    padding: 1px;
+    margin: 5px 0;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+    font-size: 8px;
+   line-height: 1.2;
+
+    overflow-x: auto;
+  }
+
+  .citation-box pre {
+    margin: 0;           /* removes default top/bottom margins */
+    padding: 0;          /* optional: keeps box tight */
+  }
+  .citation-box code {
+    display: block;      /* keeps formatting consistent */
+  }
 </style>
 <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-eval';">
 
