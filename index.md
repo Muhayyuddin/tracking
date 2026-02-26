@@ -55,6 +55,7 @@ allowing for stable tracking of the USV.
   doi={10.1109/ACCESS.2025.3532299}
         }
 </code></pre>
+</div>
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 
