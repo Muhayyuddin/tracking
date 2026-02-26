@@ -7,8 +7,18 @@
             padding: 1px;
             margin: 5px 0;
             font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
-            font-size: 8px;
+            font-size: 6px;
+            line-height: 1.0;
             overflow-x: auto;
+        }
+        .citation-box pre {
+            margin: 0;
+            padding: 0;
+            line-height: 1.0;
+        }
+        .citation-box code {
+            font-size: 6px;
+            line-height: 1.0;
         }
 </style>
 <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-eval';">
