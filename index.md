@@ -8,6 +8,7 @@
             margin: 5px 0;
             font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
             font-size: 8px;
+            line-height: 1.2;
             overflow-x: auto;
         }
 </style>
