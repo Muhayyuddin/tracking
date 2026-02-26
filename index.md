@@ -56,19 +56,7 @@ SeqTrack, a Transformer-based tracker, performed best in adverse conditions, suc
 the control algorithms evaluated, the LQR controller demonstrated the most robust and smooth control,
 allowing for stable tracking of the USV.
 </div>
-<h5>Citation</h5>
-<div class="citation-box">
-<pre><code>@ARTICLE{MuhayyTracking2025,
-  title={Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments},
-  journal={IEEE Access}, 
-  author={Muhayy, {Ud Din} and Ahsan, {Baidar Bakht} and Waseem, Akram and Yihao, Dong and Lakmal, Seneviratne and Irfan, Hussain},
-  year={2025},
-  volume={13},
-  pages={15014-15027},
-  doi={10.1109/ACCESS.2025.3532299}
-        }
-</code></pre>
-</div>
+
 <h5 style="margin-bottom: 10px;">Tracking results</h5> 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 
@@ -142,7 +130,19 @@ the USV’s thrusters, enabling precise target tracking.
 <div style="text-align: center;">
   <img src="assets/control.png" alt="Yaw Error Simulation" />
 </div>
-
+<h5>Citation</h5>
+<div class="citation-box">
+<pre><code>@ARTICLE{MuhayyTracking2025,
+  title={Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments},
+  journal={IEEE Access}, 
+  author={Muhayy, {Ud Din} and Ahsan, {Baidar Bakht} and Waseem, Akram and Yihao, Dong and Lakmal, Seneviratne and Irfan, Hussain},
+  year={2025},
+  volume={13},
+  pages={15014-15027},
+  doi={10.1109/ACCESS.2025.3532299}
+        }
+</code></pre>
+</div>
 <h5 id="faqs" style="margin-bottom: 10px;">FAQs</h5>
 <h8>Q1- Why we choose these trackers?</h8> 
 <div style="text-align: justify; font-size: 14px; line-height: 1.4;">
