@@ -3,11 +3,11 @@
         .citation-box {
             background-color: #f6f8fa;
             border: 1px solid #d0d7de;
-            border-radius: 6px;
-            padding: 20px;
-            margin: 20px 0;
+            border-radius: 3px;
+            padding: 1px;
+            margin: 5px 0;
             font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
-            font-size: 14px;
+            font-size: 8px;
             overflow-x: auto;
         }
 </style>
@@ -44,6 +44,7 @@ the control algorithms evaluated, the LQR controller demonstrated the most robus
 allowing for stable tracking of the USV.
 </div>
 <h5>Citation</h5>
+<div class="citation-box">
 <pre><code>@ARTICLE{MuhayyTracking2025,
   title={Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments},
   journal={IEEE Access}, 
