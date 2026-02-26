@@ -45,7 +45,7 @@ allowing for stable tracking of the USV.
 </div>
 <h3>Citation</h3>
 <div class="citation-box">
-<pre><code>@ARTICLE{10848073,
+<pre><code>@ARTICLE{MuhayyTracking2025,
   title={Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments},
   journal={IEEE Access}, 
   author={Muhayy, {Ud Din} and Ahsan, {Baidar Bakht} and Waseem, Akram and Yihao, Dong and Lakmal, Seneviratne and Irfan, Hussain},
